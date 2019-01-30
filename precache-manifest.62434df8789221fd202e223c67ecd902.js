@@ -8,15 +8,15 @@ self.__precacheManifest = [
     "url": "/nyes-bank/static/js/runtime~main.9c75ea6d.js"
   },
   {
-    "revision": "cd9da2926b21dceacf47",
-    "url": "/nyes-bank/static/js/main.cd9da292.chunk.js"
+    "revision": "2878d45f3bb4c11bd078",
+    "url": "/nyes-bank/static/js/main.2878d45f.chunk.js"
   },
   {
     "revision": "107a2d5da08e65f28fe1",
     "url": "/nyes-bank/static/js/1.107a2d5d.chunk.js"
   },
   {
-    "revision": "cd9da2926b21dceacf47",
+    "revision": "2878d45f3bb4c11bd078",
     "url": "/nyes-bank/static/css/main.ded51a5f.chunk.css"
   },
   {
@@ -24,7 +24,7 @@ self.__precacheManifest = [
     "url": "/nyes-bank/static/css/1.ad0b224e.chunk.css"
   },
   {
-    "revision": "5a8b8085bb08d70f56e1efc254c03f94",
+    "revision": "d5f06bf9949c5f7a0e11bcbb2ea0cc13",
     "url": "/nyes-bank/index.html"
   }
 ];
