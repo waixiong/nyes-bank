@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/nyes-bank/precache-manifest.9b82aee8fb79b18ad0d2c765c9a7fd92.js"
+  "/nyes-bank/precache-manifest.a7b28c919763f104e06e2c414dbf74e2.js"
 );
 
 workbox.clientsClaim();
